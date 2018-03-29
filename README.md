@@ -1,2 +1,3 @@
-# abstract-data-types
-Collection of data structures
+# Abstract Data Types
+
+Collection of data structures in C language
